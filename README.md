@@ -26,7 +26,9 @@ DESAFIO: Caso o usuário insira uma opção inválida no menu ou um valor não n
 IMPORTANTE: O projeto pode ser desenvolvido tanto no Google Colab, quanto pelo VSCode. Caso seja feito pelo VSCode, usar o versionamento Git.   
 
 
-EXEMPLO:
+
+
+# EXEMPLO DE FUNCIONAMENTO:
 
 Bem-vindo à Calculadora!
 
