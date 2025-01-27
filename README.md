@@ -24,3 +24,45 @@ Requisitos:
 DESAFIO: Caso o usuário insira uma opção inválida no menu ou um valor não numérico, o programa deve exibir uma mensagem de erro apropriada e permitir que ele tente novamente.
 
 IMPORTANTE: O projeto pode ser desenvolvido tanto no Google Colab, quanto pelo VSCode. Caso seja feito pelo VSCode, usar o versionamento Git.   
+
+
+EXEMPLO:
+
+Bem-vindo à Calculadora!
+
+Escolha uma operação:
+1. Soma
+2. Subtração
+3. Multiplicação
+4. Divisão
+5. Sair
+Opção: 1
+
+Digite o primeiro número: 10
+Digite o segundo número: 5
+
+Resultado: 10 + 5 = 15
+
+Escolha uma operação:
+1. Soma
+2. Subtração
+3. Multiplicação
+4. Divisão
+5. Sair
+Opção: 4
+
+Digite o primeiro número: 10
+Digite o segundo número: 0
+
+Erro: Divisão por zero não é permitida.
+
+Escolha uma operação:
+1. Soma
+2. Subtração
+3. Multiplicação
+4. Divisão
+5. Sair
+Opção: 5
+
+Até logo!
+
