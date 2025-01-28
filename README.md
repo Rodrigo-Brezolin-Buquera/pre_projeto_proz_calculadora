@@ -38,6 +38,7 @@ Escolha uma operação:
 3. Multiplicação
 4. Divisão
 5. Sair
+   
 Opção: 1
 
 Digite o primeiro número: 10
@@ -51,6 +52,7 @@ Escolha uma operação:
 3. Multiplicação
 4. Divisão
 5. Sair
+   
 Opção: 4
 
 Digite o primeiro número: 10
