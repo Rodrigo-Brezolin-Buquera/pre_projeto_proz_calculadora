@@ -1,1 +1,1 @@
-Meu link do colab
+Meu link do colab: https://colab.research.google.com/drive/1Vqg70GV9Mpp75mWc3wK8lA9a-utqmmPX?usp=sharing
