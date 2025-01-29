@@ -23,7 +23,9 @@ Requisitos:
 
 DESAFIO: Caso o usuário insira uma opção inválida no menu ou um valor não numérico, o programa deve exibir uma mensagem de erro apropriada e permitir que ele tente novamente.
 
-IMPORTANTE: O projeto pode ser desenvolvido tanto no Google Colab, quanto pelo VSCode. Caso seja feito pelo VSCode, usar o versionamento Git.   
+IMPORTANTE: O projeto pode ser desenvolvido tanto no Google Colab, quanto pelo VSCode. 
+
+ENTREGA: Crie um clone do repositório, crie uma branch com seu nome e envie o arquivo .py ou um arquivo .txt com o link do colab.
 
 
 
