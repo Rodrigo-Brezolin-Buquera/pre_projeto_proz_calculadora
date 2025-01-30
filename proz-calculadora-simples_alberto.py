@@ -1,5 +1,5 @@
 def calculadora():
-    while True: # Exibe o menu de operações a cada iteração do loop while
+    while True: # Exibe o menu de operações a cada iteração do loop while.
         print("\nEscolha a operação:")
         print("1: Somar")
         print("2: Diminuir")
